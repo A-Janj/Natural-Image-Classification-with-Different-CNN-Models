@@ -52,7 +52,7 @@ The graph of accuracy of test and validation datasets along with loss graph:
 
 The confusion matrix/heatmap for the predicted images:
 
-<img src="https://github.com/A-Janj/Natural-Image-Classification-with-Different-CNN-Models/blob/main/Images/heatmap.PNG" width="600" height="600">
+<img src="https://github.com/A-Janj/Natural-Image-Classification-with-Different-CNN-Models/blob/main/Images/heatmap.PNG" width="800" height="600">
 
 This is the comparison table made with the different parameters tried:
 
