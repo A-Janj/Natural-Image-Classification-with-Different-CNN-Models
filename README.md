@@ -45,10 +45,15 @@ The following folders contain:
 ## Results and Visualization
 * The CNN I found the best to give accuracy on prediction/test data was at 89% VGG16 without augented data and stochastic gradient descent with learning rate 0.1.
 
+The graph of accuracy of test and validation datasets along with loss graph:
 
 <img src="https://github.com/A-Janj/Natural-Image-Classification-with-Different-CNN-Models/blob/main/Images/both%20accuracy%20loss.PNG">
+
+The confusion matrix/heatmap for the predicted images:
+
 <img src="https://github.com/A-Janj/Natural-Image-Classification-with-Different-CNN-Models/blob/main/Images/heatmap.PNG">
 
 This is the comparison table made with the different parameters tried:
+
 <img src="https://github.com/A-Janj/Natural-Image-Classification-with-Different-CNN-Models/blob/main/Images/Comparison%20Table.png" width="450" height="300">
        
